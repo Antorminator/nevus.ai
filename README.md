@@ -25,3 +25,6 @@ Todo el código del proyecto **se ejecuta en el lado del cliente**; sin embargo,
 Para hacer una comprobación, realice una fotografía de un lunar sospechoso **a una distancia de no más de 3 cm**, y suminístrela al sistema pulsando en el botón que aparece en la parte inferior. Si se realiza la fotografía con un dispositivo móvil actual, se recomienda la utilización de la lente macro de la cámara (si dispone de ella).
 
 **Las imágenes cargadas no son almacenadas en ningún momento**; se procesan en el navegador del usuario sin ser enviadas a ningún servidor externo.
+
+## Vídeo demostrativo
+https://youtu.be/hSRWDKGUGkk
