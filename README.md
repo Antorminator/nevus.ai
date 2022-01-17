@@ -6,7 +6,7 @@ Este repositorio contiene una herramienta online que utiliza **Machine Learning*
 Para la creación y entrenamiento del modelo de apendizaje automático se ha utilizado la plataforma de Google **Teachable Machine**
 (http://teachablemachine.withgoogle.com), y está compuesto por 2 clases, *Lunar* y *Melanoma*, cada una de las cuales ha sido alimentada con más de 450 fotografías reales.
 
-Los datos utilizados para el entrenamiento del modelo se han obtenido de un dataset de la plataforma Kaggle (http://kaggle.com). En concreto, los datos fueron publicados por el usuario Claudio Fanconi y pueden encontrarse en el siguiente enlace: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
+Los datos utilizados para el entrenamiento del modelo se han obtenido de un dataset de la plataforma Kaggle (http://kaggle.com). En concreto, las imágenes fueron publicadas por el usuario Claudio Fanconi y pueden encontrarse en el siguiente enlace: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
 
 
 ## Aplicación web
